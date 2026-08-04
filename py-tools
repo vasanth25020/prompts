@@ -1,0 +1,12 @@
+db connector 
+
+-- all
+  > SQLAlchemy 
+
+--mysql
+  > pymysql
+  > aiomysql
+
+--postgres
+  > psycopg2
+  > asyncpg
